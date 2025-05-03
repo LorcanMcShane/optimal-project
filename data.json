@@ -1,0 +1,124 @@
+[
+    {
+        "exercise": "Squat",
+        "targetted_muscles": [
+            "Quadriceps",
+            "Gluteus"
+        ],
+        "description": "A compound lower-body exercise where you lower your hips down and back, then stand back up, targeting the legs and glutes."
+    },
+    {
+        "exercise": "Bench Press",
+        "targetted_muscles": [
+            "Chest",
+            "Shoulders",
+            "Triceps"
+        ],
+        "description": "A chest-focused exercise where you press a barbell or dumbbells from your chest while lying on a bench."
+    },
+    {
+        "exercise": "Deadlift",
+        "targetted_muscles": [
+            "Hamstrings",
+            "gluteus",
+            "Erector Spinae"
+        ],
+        "description": "A full-body movement where you lift a barbell from the ground to a standing position, emphasizing the posterior chain."
+    },
+    {
+        "exercise": "Pull Up",
+        "targetted_muscles": [
+            "Lats (Latissimus dorsi)",
+            "Biceps",
+            "Traps (Trapezius)"
+        ],
+        "description": "A bodyweight exercise where you pull yourself up to a bar using upper body strength, primarily targeting the back and biceps."
+    },
+    {
+        "exercise": "Barbell Row",
+        "targetted_muscles": [
+            "Lats (Latissimus dorsi)",
+            "Lower Traps (Trapezius)",
+            "Rhomboids"
+        ],
+        "description": "A back-strengthening exercise where you pull a barbell toward your torso while maintaining a bent-over position."
+    },
+    {
+        "exercise": "Dumbbell Curl",
+        "targetted_muscles": [
+            "Biceps",
+            "Brachialis",
+            "Brachioradialis"
+        ],
+        "description": "A biceps isolation exercise where you curl dumbbells upward while keeping your elbows stable."
+    },
+    {
+        "exercise": "Hammer Curl",
+        "targetted_muscles": [
+            "Biceps",
+            "Brachialis",
+            "Brachioradialis"
+        ],
+        "description": "A variation of the biceps curl where you hold dumbbells with a neutral grip, emphasizing the brachialis muscle."
+    },
+    {
+        "exercise": "Dumbbell Press",
+        "targetted_muscles": [
+            "Chest",
+            "Shoulders",
+            "Triceps"
+        ],
+        "description": "A chest exercise similar to the bench press, but using dumbbells for a greater range of motion."
+    },
+    {
+        "exercise": "Incline Dumbell Press",
+        "targetted_muscles": [
+            "Chest",
+            "Shoulders",
+            "Triceps"
+        ],
+        "description": "A chest-focused exercise performed on an inclined bench to target the upper pectoral muscles."
+    },
+    {
+        "exercise": "Overhead Press",
+        "targetted_muscles": [
+            "Shoulders",
+            "Triceps",
+            "Chest"
+        ],
+        "description": "A shoulder exercise where you press a barbell or dumbbells overhead from shoulder height."
+    },
+    {
+        "exercise": "Dumbell Lateral Raise",
+        "targetted_muscles": [
+            "Shoulders",
+            "Traps (Trapezius)"
+        ],
+        "description": "A shoulder isolation exercise where you lift dumbbells outward to the sides to target the lateral delts."
+    },
+    {
+        "exercise": "Romanian Deadlift",
+        "targetted_muscles": [
+            "Hamstrings",
+            "gluteus",
+            "Erector Spinae"
+        ],
+        "description": "A variation of the deadlift that focuses on the hamstrings and glutes by keeping a slight knee bend while hinging at the hips."
+    },
+    {
+        "exercise": "Bulgarian Split Squat",
+        "targetted_muscles": [
+            "Quadriceps",
+            "Gluteus",
+            "Hamstrings"
+        ],
+        "description": "A single-leg squat variation where one foot is elevated behind you, targeting the quads and glutes."
+    },
+    {
+        "exercise": "Calf Raise",
+        "targetted_muscles": [
+            "Calves"
+        ],
+        "description": "A lower-leg exercise where you rise onto your toes to strengthen the calf muscles."
+    }
+]
