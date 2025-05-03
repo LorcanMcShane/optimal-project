@@ -1,0 +1,11 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore large media files
+*.mp4
+*.pyd
+*.dll
+
+# Ignore node_modules if Angular or Node is used
+node_modules/
+dist/
